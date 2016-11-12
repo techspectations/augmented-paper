@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="adhm" size="2.000000 2.764286" />
+    <ImageTarget name="shah" size="2.000000 2.751724" />
+    <ImageTarget name="cancer" size="2.000000 2.773481" />
+    <ImageTarget name="odisha" size="2.000000 1.406948" />
+    <ImageTarget name="Trump" size="2.000000 2.820611" />
+    <ImageTarget name="TN_Tourism" size="2.000000 1.431937" />
+  </Tracking>
+</QCARConfig>
